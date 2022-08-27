@@ -1,0 +1,102 @@
+.money-details-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px;
+}
+
+.balance-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 10px;
+  background-color: #ecfccb;
+  border: 2px solid #84cc16;
+  border-radius: 20px;
+  width: 330px;
+  height: 100px;
+}
+
+.balance-img {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+
+.balance-and-count-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+}
+
+.heading {
+  color: #7e858e;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin: 10px;
+}
+
+.count {
+  color: #7e858e;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin: 10px;
+}
+
+.income-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 10px;
+  background-color: #cffafe;
+  border: 2px solid #06b6d4;
+  border-radius: 20px;
+  width: 300px;
+  height: 100px;
+}
+
+.income-img {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+
+.income-and-count-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+}
+
+.expenses-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 10px;
+  background-color: #ede9fe;
+  border: 2px solid #7c3aed;
+  border-radius: 20px;
+  width: 300px;
+  height: 100px;
+}
+
+.expenses-img {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+
+.expenses-and-count-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+}
